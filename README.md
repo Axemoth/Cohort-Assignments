@@ -1,3 +1,10 @@
+
+
+
+https://github.com/user-attachments/assets/7ff0ddd2-b2e2-4c2a-905c-2325500bdf67
+
+
+
 This repo will be the assignment for cohort assigned by masterji
 # Cursor UI Clone
 
