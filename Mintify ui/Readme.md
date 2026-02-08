@@ -1,3 +1,8 @@
+https://axemoth.github.io/Cohort-Assignments/Mintify%20ui/
+
+
+
+
 
 
 https://github.com/user-attachments/assets/b6f9c5bf-e26f-4746-868e-f9e140565d7f
@@ -36,4 +41,5 @@ This project focuses on clean UI, modern layouts, and production-quality styling
 ---
 
 ## 📁 Project Structure
+
 
